@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.todo_box{
+  margin-left: 500px;
+  height: 300px;
+  width: 300px;
+  border: solid gray;
+  border-radius: 1rem;
+}
+.header{
+  
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.Todo__Text{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 30px;
+  width: 200px;
+  border-radius:solid grey ;
+  border-radius:5px;
+  margin-left: 20px;
+}
+.add__todo{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 8px 10px;
+  border-radius: 7px;
+  margin-left: 230px;
+  margin-top: -35px;
+  border-radius: 7px;
+  background-color: blue;
+  color: aliceblue;
+}

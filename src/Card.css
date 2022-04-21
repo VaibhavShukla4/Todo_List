@@ -1,0 +1,21 @@
+.delete__button{
+    justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: tomato;
+  margin-left: 125px;
+  padding: 5px;
+  /* margin-top: 3px; */
+  color: antiquewhite;
+}
+.delete_text{
+    justify-content: center;
+  align-items: center;
+  display: flex;
+    margin-left: 20px;
+    width: 250px;
+    border: solid rgb(167, 230, 205);
+    padding-left: 5pxpx;
+    margin-top: 5px;
+    
+}
